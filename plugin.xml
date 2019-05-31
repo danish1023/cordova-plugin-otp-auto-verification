@@ -22,7 +22,7 @@
         </config-file>
         <source-file src="src/android/OTPAutoVerification.java"
                      target-dir="src/org/apache/cordova/OTPAutoVerification"/>
-        <framework src="com.google.android.gms:play-services-identity:15.0.0" />
-        <framework src="com.google.android.gms:play-services-auth:15.0.0" />
+        <framework src="com.google.android.gms:play-services-identity:14.0.0" />
+        <framework src="com.google.android.gms:play-services-auth:14.0.0" />
     </platform>
 </plugin>
